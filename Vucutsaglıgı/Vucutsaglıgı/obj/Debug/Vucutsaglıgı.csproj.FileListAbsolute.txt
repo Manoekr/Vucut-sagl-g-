@@ -1,0 +1,12 @@
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\obj\Debug\Vucutsaglıgı.csproj.AssemblyReference.cache
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\obj\Debug\Vucutsaglıgı.csproj.SuggestedBindingRedirects.cache
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\obj\Debug\Vucutsaglıgı.Form1.resources
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\obj\Debug\Vucutsaglıgı.Properties.Resources.resources
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\obj\Debug\Vucutsaglıgı.csproj.GenerateResource.cache
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\obj\Debug\Vucutsaglıgı.csproj.CoreCompileInputs.cache
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\bin\Debug\Vucutsaglıgı.exe.config
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\bin\Debug\Vucutsaglıgı.exe
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\bin\Debug\Vucutsaglıgı.pdb
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\obj\Debug\Vucutsaglıgı.exe
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\obj\Debug\Vucutsaglıgı.pdb
+C:\Users\manob\source\repos\Vucutsaglıgı\Vucutsaglıgı\obj\Debug\Vucutsaglıgı.Form2.resources
